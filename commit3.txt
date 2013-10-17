@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+
+			<h1>Page 2</h1>
+			<p>The video game industry was valued at over 100 billion dollars worldwide in 2010. These numbers are derived from the calculation of the share values of Nintendo, Sony, Microsoft, Mobile gaming, retail sale, online gaming and other sectors. Nintendo at this time is calculated to be a whopping one-third of the industry at thirty five billion dollars. Game makers have a large plethora of genres to choose from while developing games. Examples of genres that are pretty popular are Role-play games, strategic, puzzle, learning, action, board, casino, racing and trivia. Not to mention with the number of platforms to play games on now increasing each year. The game industry is allowed to create revenue off the same game for different consoles such as Xbox, Nintendo, PlayStation and apps. I myself have purchased the same game on two different consoles. With the opportunity there, developers are taking advantage of every type of consumer and creating appealing games for everyone. Unfortunately some of the most popular games are violent and rated Mature or Adult by the Entertainment Software Rating Board (ESRB).
+Grand Theft Auto is a role play game where you can control multiple people in a virtual world and literally do whatever you want. If you feel like hot wiring a car, driving to a bank, robbing it, then buy a helicopter with the money and crash it into a building…you can. For some readers this may sound absurd but this is the number one selling video game I’m talking about. . Grand Theft Auto V was the first game to reach one billion dollars in three days. That’s the fastest a form of entertainment has done that. It also had the most in sales after twenty four hours reaching eight hundred million dollars, beating the last record by three hundred million(previous holder was Call of Duty: Black Ops 2 a war game). Compare this to the fastest movie to hit a billion dollars, The Avengers, who reached it after nineteen days. Erik Kain a writer for Forbes published an article on Grand Theft Auto V, called the game a, “Cultural Phenomenon” and credits the success of the game to the numerous choices you have in the game and, “the tremendous number of ways to have fun”. The developer, Take-Two, spent an estimated two hundred and sixty million dollars on it. The CEO of Take-Two stated, “We are incredibly proud of the extraordinary critical and commercial response to Grand Theft Auto V.” Obviously understanding that they have made almost three times the money put into the game.</p>
+		</article>
+		<footer>
+		<p>&copy; 2013 [Name goes here]</p>
+		</footer>
+	</content>
+</body>	
