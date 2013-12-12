@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<title>lived experiences project | my portfolio</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="formal.html">formal <br />research</a></li>
+			<li><a href="remix.html">remix</a></li>
+			<li><a href="course.html">course <br />retrospective</a></li>
+			<li><a href="blog.html">blog</a></li>
+		</ul>
+	</header>
+	<main>
+		<h1>remix memo</h1>
+		<p>TO: Christine Daniels, Professor
+
+FROM: Ian Schlitt, WRA 110 Student
+
+DATE: December 2nd, 2013
+
+SUBJECT: Research Project Assessment Memo
+
+Composing in Context
+
+•	Composing the project was at first difficult regarding the issue we choose because for one this question alone made us change topics and second the idea of portraying academics versus athletics here in college. We ended up realizing that our issue was perfect for the project because we attend such an athletic centered university as well as a top school in the world academically. 
+•	This wasn’t my idea at first but was brought to my attention through the project that this really was an issue. I see both sides of the argument but now I lean more one way because of researching into it. One of the interviewed participants brought to my attention that we don’t see huge advertisements for academic achievents like we do about each major sport here at Michigan State University. That thought alone really sends the message that there is an issue with prioritizing here.
+•	During the process we had a hard time picking the topic. Finding something that would be good to show visually presented a problem in itself. Some things are really not meant to be visually created to show the issue at hand. Another thing was actually creating the project to represent what we thought and felt about the issue without really biasing one way.
+•	Audience is a big thing here because it relates to each and every one of us in the room. Why is my professor not making millions like the head coaches of the teams that play at the college? It’s really an eye opener regarding the issues.
+
+Process
+
+•	We decided that the issue we chose was easy to portray visually because the subject at hand is literally our daily environment. Another reason is that this issue would really impact the most people here at school and leave an impact larger than our other topics. We did scrap an idea almost up the point of filming because of its content really wasn’t ideal.
+•	The most challenging thing for me was getting the idea across to the audience in the right way. I now respect producers of films because saying something on paper is a lot easier than filming it and getting the same response.
+•	To me the system we used was the original idea of the whole thing we had planned before, then we decided what content we wanted as well as brainstorm some ideas, then we made a layout of what specifically we wanted then we actually put everything together to do what we needed to do.
+
+Research
+
+•	I think the individual interviews really helped get our point across; we really involved that process as the main form of information because the issue really involves almost every person on campus. It’s based on them so why not involve them and get there input. Hearing from someone very similar to you is a lot more convincing than me just telling information.
+•	Personal thoughts on the subject don’t really help in this situation because you can try to persuade someone but when it comes down to it you want hard facts. 
+
+Collaboration
+
+•	At first we met several times and discussed what we were doing and then set up a group chat to keep each other posted on the individual aspects progress. We each had our own share of work and then we put it all together. My group worked very communicating, creatively thinking and listening to each other’s ideas. 
+•	Yes this group was amazing to work with; we all had our own skills that meshed well with each other. I am almost positive the video we made will be the best one yet because of how well we worked together. 
+
+Project Management
+
+•	Our plan did not go very well at all, we had to ditch our first idea that we put a lot of thought and time into it but wasn’t working. We brainstormed a new idea and it worked great. We all got together pretty quickly and worked together on it. We did a great time managing time and not waiting last minute. We also had our own specific skills and based the work load on that.
+•	If I were to do this over again I would definitely look further in to the future when It came to picking the idea because some ideas aren’t for this project. That was one of our biggest issues and regarding the project the discipline is a huge aspect.
+
+Documentary
+
+•	The most effective part is the visionary tools we used to reflect the experience you feel walking around campus. You notice almost too much of the football aspect and not enough about good academics. Also the interviews really capture the feel of what we were looking to achieve with this project.  A first look into the students perspective can really hit the audience well as well as a look into what the professors thought as well.
+
+</p>
+	</main>
+	<footer>
+		<p>&copy; 2013 [Ian Schlitt]</p>
+	</footer>
